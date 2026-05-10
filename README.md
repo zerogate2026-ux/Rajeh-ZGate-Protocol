@@ -1,3 +1,10 @@
+**Rajeh-ZGate-Protocol**
+> This repository contains the computational implementation of the **Zero-Crossing Law**.
+> **Core Concept:**
+> When Mass ($m$) is nullified at the spatial-temporal gateway, energy is conserved and transferred into the **Al-Rajeh Constant ($Tr$)**.
+> **Formula:**
+> $E = mc^2 + Tr$
+> *A new perspective on energy dynamics beyond the singularity
 # Rajeh-ZGate-Protocol
 Mathematical resolution of the Information Paradox at spacetime singularities using the Rajeh Informational Constant (T).
 
